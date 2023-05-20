@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Rafaat Amer</h1>
-<h3 align="center">Android developer from Egypt</h3>
+<h3 align="center">Native Mobile developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-rafaat-amer&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-rafaat-amer" /> </p>
 
@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/abdo_rafat_amer" target="blank"><img src="https://img.shields.io/twitter/follow/abdo_rafat_amer?logo=twitter&style=for-the-badge" alt="abdo_rafat_amer" /></a> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose and Flutter**
+- 🌱 I’m currently learning **Jetpack Compose**
 
-- 👯 I’m looking to collaborate on **Android Projects**
+- 👯 I’m looking to collaborate on **Mobile Projects**
 
-- 🤝 I’m looking for help with **getting Job**
+- 🤝 I’m looking for help with **Gain more experince and develop my self**
 
-- 👨‍💻 All of my projects APK are available at [https://drive.google.com/drive/folders/1eljNe0HQQdiKeUiOWDDlmku6LHTRW3KE?usp=sharing)
+- 👨‍💻 All of my projects are available at my google play account [https://play.google.com/store/apps/developer?id=Abdelrahman+Rafaat)
 
-- You contact me on linked in [https://www.linkedin.com/in/abdelrahman-amer-a21925194/](https://www.linkedin.com/in/abdelrahman-amer-a21925194/)
+- You contact me on linked in [https://www.linkedin.com/in/abdelrahman-rafaat-anwer-amer/](https://www.linkedin.com/in/abdelrahman-rafaat-anwer-amer/)
 
-- 💬 Ask me about **any thing**
+- 💬 Ask me about **Mobile Development**
 
 - 📫 How to reach me **abdelrahman.raafaat@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16tcDFCFf9A3K6rnQpLszlmdykxf5VB4Q/view?usp=drivesdk](https://drive.google.com/file/d/16tcDFCFf9A3K6rnQpLszlmdykxf5VB4Q/view?usp=drivesdk)
+- 📄 Know about my experiences [My Cv](https://drive.google.com/file/d/1VR0LiKaAkPRHXvhK_qWHdk3xuEEZLLOT/view?usp=sharing)
 
 - ⚡ Fun fact **I like playing PlayStation**
 
