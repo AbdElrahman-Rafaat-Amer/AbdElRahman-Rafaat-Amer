@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **Gain more experince and develop my self**
 
-- 👨‍💻 All of my projects are available at my google play account [https://play.google.com/store/apps/developer?id=Abdelrahman+Rafaat)
+- 👨‍💻 All of my projects are available at my [google play account](https://play.google.com/store/apps/developer?id=Abdelrahman+Rafaat)
 
-- You contact me on linked in [https://www.linkedin.com/in/abdelrahman-rafaat-anwer-amer/](https://www.linkedin.com/in/abdelrahman-rafaat-anwer-amer/)
+- You contact me on [Linkedin](https://www.linkedin.com/in/abdelrahman-rafaat-anwer-amer/)
 
 - 💬 Ask me about **Mobile Development**
 
