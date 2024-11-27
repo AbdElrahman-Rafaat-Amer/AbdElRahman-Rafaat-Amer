@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at my [google play account](https://play.google.com/store/apps/developer?id=Abdelrahman+Rafaat)
 
-- You contact me on [Linkedin](https://www.linkedin.com/in/abdelrahman-rafaat-anwer-amer/)
+- You contact me on [Linkedin](https://www.linkedin.com/in/abdelrahman-raafat-anwer-amer/)
 
 - 💬 Ask me about **Mobile Development**
 
@@ -33,7 +33,7 @@
 <p align="left">
 <a href="https://dev.to/@abdelrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@abdelrahman" height="30" width="40" /></a>
 <a href="https://twitter.com/abdo_rafat_amer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdo_rafat_amer" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdelrahman-rafaat-anwer-amer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahman-rafaat-anwer-amer/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdelrahman-raafat-anwer-amer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahman-raafat-anwer-ame/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/abdo.rafaat.amer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdo.rafaat.amer/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abdo.rafaat.amer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdo.rafaat.amer/" height="30" width="40" /></a>
 <a href="https://medium.com/@abdelrahman.raafaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdelrahman.raafaat" height="30" width="40" /></a>
